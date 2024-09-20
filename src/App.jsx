@@ -6,8 +6,7 @@ import './App.css'
 function App() {
 
   return (
-    <><h1>Vanakam  da mapla irunthu</h1>
-      </>
+    <><h1>Vanakam  da mapla irunthu</h1></>
   )
 }
 
